@@ -4,6 +4,7 @@ import Educo from '../assets/projects/educo.jpeg'
 import Bell from '../assets/projects/bellsystem.jpeg'
 import Sirikirula from '../assets/projects/sirikirula.png'
 import AtDigital from '../assets/projects/atdigital.png'
+import Sliit from '../assets/projects/sliit.jpeg'
 
 export const data=[
     {
@@ -17,7 +18,7 @@ export const data=[
     {
         id:2,
         name:"Online Recruit System",
-        image:RealEst,
+        image:Sliit,
         github:"https://github.com/ravinduiddamalgoda/jobCloneApp.git",
         live:"",
         description:"Web Platform to find intern and other job opportunities online for university student that are able to generate their CVs."
