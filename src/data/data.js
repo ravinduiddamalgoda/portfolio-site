@@ -5,6 +5,7 @@ import Bell from '../assets/projects/bellsystem.jpeg'
 import Sirikirula from '../assets/projects/sirikirula.png'
 import AtDigital from '../assets/projects/atdigital.png'
 import Sliit from '../assets/projects/sliit.jpeg'
+import Robo from '../assets/projects/robo.jpeg'
 
 export const data=[
     {
@@ -26,7 +27,7 @@ export const data=[
     {
         id:3,
         name:"Line Following and Wall Following Robot",
-        image:WorkIm,
+        image:Robo,
         github:"",
         live:"",
         description:"Arduino-based line and wall Following robot that is using PID controller. C | Arduino | PID Controller | Robotics"
